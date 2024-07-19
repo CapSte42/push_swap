@@ -1,3 +1,7 @@
+![push_swap](https://github.com/user-attachments/assets/a466889d-823a-42b8-a965-1fda47239564)
+
+
+
 # **push_swap**
 Because Swap_push isn’t as natural
 
